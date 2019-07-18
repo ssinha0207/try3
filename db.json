@@ -19,8 +19,8 @@
 					"Description": "Gebratene Linsenkugeln mit Ingwer und Curryblaettern",
 					"Price": "6,4"
 				}
-			]
-		"VEGETARIAN" :[
+			],
+		"VEGETARIAN":[
 				{
 					"ItemNum": "41",
 					"ItemName": "Nei Roast",
@@ -39,8 +39,8 @@
 					"Description": "The world famous dish from the Punjabi cuisine, this is a combination of Chana Masala and the fried bread called Bhatura",
 					"Price": "14,90"
 				}
-			]
-		"CHICKEN" :[
+			],
+		"CHICKEN":[
 				{
 					"ItemNum": "61",
 					"ItemName": "Malabar Duck Curry",
