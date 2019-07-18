@@ -20,7 +20,7 @@
 					"Price": "6,4"
 				}
 			]
-		"VEGETARIAN":[
+		"VEGETARIAN" :[
 				{
 					"ItemNum": "41",
 					"ItemName": "Nei Roast",
@@ -40,7 +40,7 @@
 					"Price": "14,90"
 				}
 			]
-		"CHICKEN":[
+		"CHICKEN" :[
 				{
 					"ItemNum": "61",
 					"ItemName": "Malabar Duck Curry",
