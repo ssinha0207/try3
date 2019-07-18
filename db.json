@@ -1,0 +1,64 @@
+{		
+	"menu": {
+		"vorspeise":[
+				{
+					"ItemNum": "1",
+					"ItemName": "Samosa",
+					"Description": "Frittierter Snack gefuellt mit Kartoffeln",
+					"Price": "5,90"
+				},
+				{
+					"ItemNum": "2",
+					"ItemName": "Aloo Vada",
+					"Description": "Gewuerztes Kartoffelpüree mit würzigem Kichererbsenteig ueberzogen und gebraten",
+					"Price": "5,60"
+				},
+				{
+					"ItemNum": "3",
+					"ItemName": "Parippu Vada",
+					"Description": "Gebratene Linsenkugeln mit Ingwer und Curryblaettern",
+					"Price": "6,4"
+				}
+			]
+		"VEGETARIAN":[
+				{
+					"ItemNum": "41",
+					"ItemName": "Nei Roast",
+					"Description": "Rice and lentil crepes prepared in a skillet with ghee, accompanied with Sambar and Chutney",
+					"Price": "11,90"
+				},
+				{
+					"ItemNum": "42",
+					"ItemName": "Masala Dosa",
+					"Description": "Rice and lentils crepe stuffed with mashed potato mixture, accompanied with Sambar and Chutney",
+					"Price": "12,90"
+				},
+				{
+					"ItemNum": "43",
+					"ItemName": "Chole Bhatureg",
+					"Description": "The world famous dish from the Punjabi cuisine, this is a combination of Chana Masala and the fried bread called Bhatura",
+					"Price": "14,90"
+				}
+			]
+		"CHICKEN":[
+				{
+					"ItemNum": "61",
+					"ItemName": "Malabar Duck Curry",
+					"Description": "Duck is prepared with coconut milk and spices. Cooked potatoes and coconut milk give it a creamy texture.",
+					"Price": "19,30"
+				},
+				{
+					"ItemNum": "62",
+					"ItemName": "Chicken Curry",
+					"Description": "Chicken fillets cooked in light creamy sauce and classic Indian curry spices",
+					"Price": "15,90"
+				},
+				{
+					"ItemNum": "63",
+					"ItemName": "Chicken Vindaloo",
+					"Description": "South Indian chicken specialty prepared with potatoes, coconut and spices.",
+					"Price": "17,50"
+				}
+			]
+		}	
+}		
